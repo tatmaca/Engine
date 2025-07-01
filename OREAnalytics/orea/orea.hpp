@@ -69,6 +69,9 @@
 #include <orea/app/structuredanalyticswarning.hpp>
 #include <orea/app/zerosensitivityloader.hpp>
 #include <orea/counterparty/exposures.hpp>
+#include <orea/counterparty/lossgivendefault.hpp>
+#include <orea/counterparty/probdefault.hpp>
+#include <orea/counterparty/wrongwayrisk.hpp>
 #include <orea/cube/cube_io.hpp>
 #include <orea/cube/cubecsvreader.hpp>
 #include <orea/cube/cubeinterpretation.hpp>
